@@ -1,0 +1,10 @@
+/home/zinmarhtun/MvcDemo/obj/Debug/netcoreapp2.0/MvcDemo.csproj.CoreCompileInputs.cache
+/home/zinmarhtun/MvcDemo/obj/Debug/netcoreapp2.0/MvcDemo.AssemblyInfoInputs.cache
+/home/zinmarhtun/MvcDemo/obj/Debug/netcoreapp2.0/MvcDemo.AssemblyInfo.cs
+/home/zinmarhtun/MvcDemo/bin/Debug/netcoreapp2.0/MvcDemo.deps.json
+/home/zinmarhtun/MvcDemo/bin/Debug/netcoreapp2.0/MvcDemo.runtimeconfig.json
+/home/zinmarhtun/MvcDemo/bin/Debug/netcoreapp2.0/MvcDemo.runtimeconfig.dev.json
+/home/zinmarhtun/MvcDemo/bin/Debug/netcoreapp2.0/MvcDemo.dll
+/home/zinmarhtun/MvcDemo/bin/Debug/netcoreapp2.0/MvcDemo.pdb
+/home/zinmarhtun/MvcDemo/obj/Debug/netcoreapp2.0/MvcDemo.dll
+/home/zinmarhtun/MvcDemo/obj/Debug/netcoreapp2.0/MvcDemo.pdb
